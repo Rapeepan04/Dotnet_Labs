@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = Dotnet_Labs
+build_property.ProjectDir = D:\Dotnet_Labs\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
